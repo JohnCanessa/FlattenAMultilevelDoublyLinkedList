@@ -8,7 +8,7 @@ and solved in my blog.
 If interested in my comments and approach, I invite you to read the following
 post:
 
-<T.B.D.>
+https://www.johncanessa.com/2021/07/19/flatten-a-multilevel-doubly-linked-list/
 
 Keep in mind that one of the best ways to learn is to read and experiment.
 Practive makes perfect!
